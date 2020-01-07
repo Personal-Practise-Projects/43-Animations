@@ -22,7 +22,7 @@ timeline.from("#bowl", {
 	y: '-=100',
 	rotation: 70,
 	ease: Bounce.easeOut
-}, "-=.4")
+}, '-=0.2')
 .from("#chopstick-01", {
 	duration: 0.4,
 	y: -250,
