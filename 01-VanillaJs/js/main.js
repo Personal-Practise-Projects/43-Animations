@@ -43,7 +43,7 @@ timeline.from("#bowl", {
 	x: window.innerWidth,
 	opacity: 0,
 }, "-=1")
-.from("h1", {
+.from(".heading", {
 	y: 200,
 	opacity: 0,
 });

@@ -4,14 +4,6 @@ body {
   height: 100%;
 }
 
-.first-section {
-  position: relative;
-  width: 100%;
-  height: 100vh;
-  border: 10px solid teal;
-  box-sizing: border-box;
-}
-
 .sushi-animation {
   display: flex;
   align-items: center;
@@ -28,10 +20,6 @@ body {
   font-size: 2rem;
   text-align: center;
   width: 100%;
-}
-
-#sushi-01 {
-  transform: translateY(100px);
 }
 
 /*# sourceMappingURL=style.css.map */
