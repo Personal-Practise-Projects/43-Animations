@@ -60,5 +60,4 @@ const scene = new ScrollMagic.Scene({
 })
 .setPin(".sushi-animation")
 .setTween(timeline)
-.addTo(controller)
-.addIndicators();
+.addTo(controller);
