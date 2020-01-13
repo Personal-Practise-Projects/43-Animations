@@ -1,3 +1,7 @@
+/**
+ * GSAP Docs
+ * @ref: https://greensock.com/docs/
+ */
 const timeline = new gsap.timeline({
 	defaults: {
 		transformOrigin: "center",
