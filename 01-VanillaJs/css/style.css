@@ -14,6 +14,9 @@ body {
   border: 10px solid #FDCB29;
   box-sizing: border-box;
 }
+.sushi-animation svg {
+  width: 100%;
+}
 .sushi-animation .heading {
   color: #000;
   font-family: raleway, sans-serif;
