@@ -4,8 +4,9 @@
  */
 const timeline = new gsap.timeline({
 	defaults: {
-		transformOrigin: "center",
-		ease: 'ease',
+		duration: 1, // sets the default duration of each tween to 1s
+		transformOrigin: "center", // sets default transform-origin to center
+		ease: 'ease', // sets the default animation timeline to ease
 	},
 });
 
